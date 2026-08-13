@@ -72,6 +72,9 @@ modules:
           - p7zip
           - distrobox
           - steam-devices
+          - ksshaskpass
+          - zsh
+          - code
           
         # sound
           - wireplumber
