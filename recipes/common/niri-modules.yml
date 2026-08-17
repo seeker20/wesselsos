@@ -18,7 +18,6 @@ modules:
         - docker-compose-plugin
         - freeipa-client
         - neovim
-        - podman-compose
 
     - type: files
       files:
