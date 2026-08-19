@@ -11,6 +11,8 @@ modules:
     repos:
       files:
         - vscode.repo
+        - docker-ce.repo
+    
   - from-file: common/sddm-modules.yml
   - from-file: common/common-modules.yml
   - from-file: common/niri-modules.yml
