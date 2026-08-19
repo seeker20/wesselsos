@@ -98,6 +98,7 @@ modules:
           #- code
           - podman-compose
           - remmina
+          - nautilus
           
         # sound
           - wireplumber
