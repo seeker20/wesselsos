@@ -10,15 +10,7 @@ modules:
         - swaylock
         - swayidle
         - swaybg
-        - code
-        - containerd.io
-        - docker-buildx-plugin
-        - docker-ce
-        - docker-ce-cli
-        - docker-compose-plugin
-        - freeipa-client
-        - neovim
-
+        
     - type: files
       files:
         - source: system/niri
