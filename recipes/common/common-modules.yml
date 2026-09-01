@@ -99,6 +99,8 @@ modules:
           - podman-compose
           - remmina
           - nautilus
+          - freerdp
+          - remmina-plugins-rdp
           
         # sound
           - wireplumber
