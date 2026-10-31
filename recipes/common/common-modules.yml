@@ -101,6 +101,7 @@ modules:
           - nautilus
           - freerdp
           - remmina-plugins-rdp
+          - remmina-plugins-vnc
           
         # sound
           - wireplumber
