@@ -132,7 +132,8 @@ modules:
           - gvfs-smb
           - gvfs-nfs
           - gvfs-fuse
-          - gvfs-archive
+          # wurde nicht gefunden
+          #- gvfs-archive 
           - android-tools
 
         # screenshot
