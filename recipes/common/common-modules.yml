@@ -133,6 +133,8 @@ modules:
           - gvfs-nfs
           - gvfs-fuse
           # wurde nicht gefunden
+          - gvfs-backends-archive
+          - gvfs-backends
           #- gvfs-archive 
           - android-tools
 
